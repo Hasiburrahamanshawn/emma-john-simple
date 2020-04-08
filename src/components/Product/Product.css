@@ -9,6 +9,10 @@
 .product-name{
     color: blue;
     font-weight: 500;
+    
+}
+.pd{
+    padding: 10px;
 }
 .main-button{
     background-color: goldenrod;
